@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MeroLiveWebsite/static/css/main.64f92174.chunk.css",
+    "main.js": "/MeroLiveWebsite/static/js/main.c53aca37.chunk.js",
+    "main.js.map": "/MeroLiveWebsite/static/js/main.c53aca37.chunk.js.map",
+    "runtime-main.js": "/MeroLiveWebsite/static/js/runtime-main.403f7b8a.js",
+    "runtime-main.js.map": "/MeroLiveWebsite/static/js/runtime-main.403f7b8a.js.map",
+    "static/js/2.ec3ee500.chunk.js": "/MeroLiveWebsite/static/js/2.ec3ee500.chunk.js",
+    "static/js/2.ec3ee500.chunk.js.map": "/MeroLiveWebsite/static/js/2.ec3ee500.chunk.js.map",
+    "index.html": "/MeroLiveWebsite/index.html",
+    "static/css/main.64f92174.chunk.css.map": "/MeroLiveWebsite/static/css/main.64f92174.chunk.css.map",
+    "static/js/2.ec3ee500.chunk.js.LICENSE.txt": "/MeroLiveWebsite/static/js/2.ec3ee500.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403f7b8a.js",
+    "static/js/2.ec3ee500.chunk.js",
+    "static/css/main.64f92174.chunk.css",
+    "static/js/main.c53aca37.chunk.js"
+  ]
+}
